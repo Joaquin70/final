@@ -1,0 +1,14 @@
+5)
+A) *API REST es una arquitectura de desarrollo web que hace incapie totalmente en el protocolo HTTP, 
+proporcionando una API (Interfaz de programación de aplicaciones) para cada uno de los metodos de este protocolo. 
+La API lo que hace es permitir la comunicación de datos entre aplicaciones mediante dichos protocolos.
+Una de las ventajas mas importantes de la utilizacion de API REST es que se puede serparar las aplicaciones usadas para hacer front-end y las que se usan para back-end.
+Debido a esta separacion es mas facil desarrolar una aplicacion, ya que se puede escalar facilmente.
+Otra de las ventajas es la proteccion de los datos y que permite que la aplicación acceda a bases de datos desde diferentes servidores.
+
+B) *Server Side Rendering quiere decir que todos los recursos del sitio o aplicacion están creados dentro del servidor. 
+Cuando un usuario realiza una solicitud, el servidor envía el archivo HTML para que el browser lo muestre.
+*Los codigos de estado HTTP son codigos de estado de respuesta de una solicitud, 
+mediante un codigo representa si la solicitud fue exitosa (200), erronea, si hay un problema en el servidor(500) o por ejemplo si hay un problema con el browser (4xx), 404 not found.
+*Las sesiones de usuarios de PHP permiten mantener y manejar información de los usuarios en el servidor mediante el array $_SESSION.
+Por ejemplo se puede guardar en variables como $_SESSION['email'], el email de la sesion iniciada.
